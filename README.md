@@ -1,5 +1,5 @@
 # charmaine
-A basic Angular and PHP CRUD operations with SweetAlert animation.
+A javascript voice recognition and text-to-speech app that learns.
 
 Plugins/API used:
 
